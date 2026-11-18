@@ -4,7 +4,7 @@ public class Clase3 {
         
         Scanner sc = new Scanner(System.in);
 
-        //ciclo for 
+        //-----Ejercicios con ciclo for----- 
         System.out.println("¿Qué tabla deseas ver?");
         int tabla = sc.nextInt();
 
